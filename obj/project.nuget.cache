@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dK6PcvzXO/O1T4fE33N6Edn4upOBoNY85hhl0cnLLU+2qYBMJBWoB4tK9TFX/cq8fKYWtMv0B7goQaiwjKzTvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\kapsulleme\\kapsulleme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

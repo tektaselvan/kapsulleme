@@ -1,0 +1,16 @@
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\bin\Debug\net5.0\kapsulleme.exe
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\bin\Debug\net5.0\kapsulleme.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\bin\Debug\net5.0\kapsulleme.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\bin\Debug\net5.0\kapsulleme.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\bin\Debug\net5.0\kapsulleme.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\bin\Debug\net5.0\kapsulleme.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\refint\kapsulleme.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\kapsulleme.genruntimeconfig.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\kapsulleme\obj\Debug\net5.0\ref\kapsulleme.dll
